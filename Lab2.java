@@ -10,8 +10,5 @@ public class Lab2 {
 
         return result;
     }
-
-    private void helper(String s, int i, ArrayList<String> strings, ArrayList<String> result) {
-    }
 }
 
